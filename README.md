@@ -4,3 +4,4 @@ A brief demo of using github
 
 Added a line!
 Added line 2
+Added line 3
