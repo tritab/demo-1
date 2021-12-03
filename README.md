@@ -14,4 +14,8 @@ A brief demo using github
     1. git branch
     1. edit the file README.md
     1. git status
+    1. git add README.md
+    1. git status
+    1. git commit -m 'updated readme'
+    1. any errors?
 
